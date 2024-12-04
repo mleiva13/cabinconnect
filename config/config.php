@@ -2,9 +2,9 @@
 define('ADMIN','admin');
 define('RUTA_PRINCIPAL', 'http://localhost/reservas/');
 define('RUTA_ADMIN', RUTA_PRINCIPAL . ADMIN . '/');
-define('HOST', 'localhost');
-define('USER', 'root');
-define('PASS', '');
+define('HOST', 'ep-holy-sun-a5t3tb5d.us-east-2.aws.neon.tech');
+define('USER', 'reservas_owner');
+define('PASS', 't8So6ajGlBOu');
 define('DATABASE', 'reservas');
 define('CHARSET', 'charset=utf8');
 define('TITLE', 'CabinConnect');
